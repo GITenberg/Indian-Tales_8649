@@ -1,0 +1,49 @@
+_repo: Indian-Tales_8649
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: Title; Contents; "The Finest Story in the World"; With the Main Guard;
+  Wee Willie Winkie; The Rout of the White Hussars; At Twenty-Two; The Courting of
+  Dinah Shadd; The Story of Muhammad Din; In Flood Time; My Own True Ghost Story;
+  The Big Drunk Draf'; By Word of Mouth; The Drums of the Fore and Aft; The Sending
+  of Dana Da; On the City Wall; The Broken-Link Handicap; On Greenhow Hill; To Be
+  Filed for Reference; The Man Who Would Be King; The Gate of the Hundred Sorrows;
+  The Incarnation of Krishna Mulvaney; His Majesty the King; The Strange Ride of Morrowbie
+  Jukes; In the House of Suddhoo.
+gutenberg_bookshelf:
+- Scouts
+- Folklore
+- India
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'India -- Social life and customs -- Fiction'
+tableOfContents: '"The finest story in the world" -- With the main guard -- Wee Willie
+  Winkie -- The rout of the White Hussars -- At twenty-two -- The courting of Dinah
+  Shadd -- The story of Muhammad Din -- In flood time -- My own true ghost story --
+  The big drunk draf'' -- By word of mouth -- The drums of the fore and aft -- The
+  sending of Dana Da -- On the city wall -- The Broken-Link Handicap -- On Greenhow
+  Hill -- To be filed for reference -- The man who would be King -- The Gate of the
+  Hundred Sorrows -- The incarnation of Krishna Mulvaney -- His Majesty the King --
+  The strange ride of Morrowbie Jukes -- In the house of Suddhoo -- Black Jack --
+  The taking of Lungtungpen -- The phantom rickshaw -- On the strength of a likeness
+  -- Private Learoyd''s story -- Wressley of the foreign office -- The solid Muldoon
+  -- The Three Musketeers -- Beyond the pale -- The God from the machine -- The daughter
+  of the regiment -- The madness of Private Ortheris -- L''envoi.'
+title: Indian Tales
+url: http://www.gutenberg.org/ebooks/8649
