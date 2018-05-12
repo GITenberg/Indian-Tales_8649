@@ -1,4 +1,8 @@
 _repo: Indian-Tales_8649
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -18,6 +22,8 @@ description: Title; Contents; "The Finest Story in the World"; With the Main Gua
   Filed for Reference; The Man Who Would Be King; The Gate of the Hundred Sorrows;
   The Incarnation of Krishna Mulvaney; His Majesty the King; The Strange Ride of Morrowbie
   Jukes; In the House of Suddhoo.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8649#Indian-Tales
 gutenberg_bookshelf:
 - Scouts
 - Folklore
